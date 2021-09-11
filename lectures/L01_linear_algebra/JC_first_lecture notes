@@ -1,0 +1,2 @@
+for Numpy arrays, the first index corresponds to rows and the second corresponds to columns (each row is an object)
+ # Notice that for a list the multiplication by n makes it repeat n times. Not the case for np.array
